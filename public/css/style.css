@@ -1,0 +1,29 @@
+.title-heading{
+    font-size:20px !important;
+    margin-bottom: 0px;
+}
+
+body{
+    background-color: white;
+}
+
+table td,th{
+    text-align: center;
+}
+
+h3 sub{
+    font-size: 14px;
+}
+
+.card-header p{
+    margin-bottom: 0px;
+}
+
+.title-heading{
+    background: green;
+    padding:5px;
+    border-left:5px solid greenyellow;
+    color:white;
+    padding-left:10px;
+    margin-bottom:5px;
+}
